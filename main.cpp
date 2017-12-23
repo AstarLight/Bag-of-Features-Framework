@@ -3,7 +3,7 @@
 
 int main()
 {
-    //BuildDictionary(12,6);
+    BuildDictionary(12,6);
     TrainingDataInit();
 
     TestClassify();
