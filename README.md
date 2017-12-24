@@ -4,3 +4,6 @@ By using some APIs offered by OpenCV, we can easily build a BoF model to handle 
 For examples, in an invoice classification task, we use this BoF to calssify and we get 0.99 accuracy.
 
 
+Please visit my blog for more details.http://www.cnblogs.com/skyfsm/p/8097397.html
+
+
